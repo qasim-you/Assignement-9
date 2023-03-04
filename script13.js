@@ -1,7 +1,6 @@
 // 13. Write a js program to count total number of duplicate elements in an
 // array.
-// 13. Write a js program to count total number of duplicate elements in an
-// array.
+
 function countDuplicates(arr) {
     const frequency = {};
     let count = 0;
